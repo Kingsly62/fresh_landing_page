@@ -1,8 +1,12 @@
-Application Name
+## Application Name
 
 Clinton Makori Kioge
 
-#### Project description
+## Project Name
+
+Portfolio Landing Page
+
+## Project description
 
 This project will develop a module offered to Module Prep students and will seek to
 develop student’s skills in collaborative working and information literacy while still advancing
