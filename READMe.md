@@ -51,7 +51,7 @@ Probably I Have used ;
 
 ## Support and contact details
 
-.Incase of agent support ,you can call/Whatsapp
+Incase of agent support ,you can call/Whatsapp
 via:
 
 .Phone number 1: +254758249045
