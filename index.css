@@ -1,6 +1,8 @@
 body{
     margin-left: 10vw;
     margin-right: 10vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
 }
 
 @media screeen  and (min-width: 768px) {  
