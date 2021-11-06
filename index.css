@@ -1,14 +1,21 @@
+body{
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+@media screeen  and (min-width: 768px) {  
+
 .sidenav{
-    height: 70%;
+    height: 90%;
     width: 170px;
-    position: absolute;
     z-index: 1;
     left: 0;
     top: 0;
-    background-color: #111;
+    background-color: black;
     overflow-x: hidden;
     padding-top: 20px;
-
+    position: absolute;
+}
 }
 
 .sidenav a {
@@ -47,7 +54,7 @@
     padding: 50px;
     background-color: sandybrown;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: small;
+    font-size: large;
 }
 
 #contact1{
