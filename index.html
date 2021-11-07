@@ -86,8 +86,24 @@
          WhatSapp no: +254758249045<br>
          Facebook/meta: Clinton Kioge<br>
          Instagram: clintonkioge
-         </div>
-         </div> 
+           </div>
+           <div class="feedback">
+            <form>
+              Send me a Feedback for more information:<br>
+              <input 
+              type="text" 
+              onkeydown="color('green')"
+              onkeyup="color('white')"
+              name="myMessage"><br>
+              <button type="submit" onclick="Submit">Submit</button>
+              </form>
+              <script>
+                function color(color) {
+                  document.forms[0].myMessage.style.background = color;
+                }
+                </script>
+           </div>
+          </div>
         </div>
 </body>
 </html>

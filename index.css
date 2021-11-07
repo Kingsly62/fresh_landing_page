@@ -2,7 +2,6 @@ body{
     margin-left: 10vw;
     margin-right: 10vw;
     margin-top: 10vh;
-    margin-bottom: 10vh;
 }
 
 @media screeen  and (min-width: 768px) {  
@@ -65,12 +64,17 @@ body{
 }
 
 .contact{
-    padding: 40px;
-    background-image: url(/Images/back4.jpg);
+    padding: 80px;
+    background-color: cadetblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .contact h3{
-    color: red;
+    color: blue;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.feedback{
+    float: right;
+    font-size: larger;
 }
