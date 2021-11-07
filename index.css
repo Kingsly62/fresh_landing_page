@@ -38,7 +38,7 @@ body{
 }
 
 .home {
-    background-image: url('/Images/baack2.jpg');
+    background-image: url('Images/baack2.jpg');
     padding: 40px ;
 }
 
