@@ -45,6 +45,8 @@ Probably I Have used ;
 
 .CSS
 
+.JavaScript
+
 ## Link to my website
 
 [click]()
